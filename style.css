@@ -37,7 +37,7 @@ body {
 }
 
 #game {
-  float: right;
+  float: right; 
   margin-left: 125px;
   font-family: monospace;
   width: 50px;
