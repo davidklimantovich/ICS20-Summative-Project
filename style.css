@@ -1,0 +1,57 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+body {
+  background-color: rgb( 25, 29, 30);
+}
+
+#blackhole {
+  font-family: monospace;
+  font-size: 100px;
+  color: rgb(2550, 255, 255);
+  margin-left: 475px;
+}
+
+#welcome {
+  font-family: monospace;
+  color: rgb(2550, 255, 255);
+  font-size: 50px;
+  margin-left: 35px;
+}
+
+.Credits {
+  font-size: 16px;
+  width: 125;
+  height: 125;
+  background-color: rgb(0, 0, 5);
+  color: rgb(2550, 255, 255);
+  font-family: monospace;
+  margin-left: 10px
+}
+
+#game {
+  float: right;
+  margin-left: 125px;
+  font-family: monospace;
+  width: 50px;
+}
+
+.contents {
+  color: rgb(2550, 255, 255);
+  font-family: monospace;
+  margin-left: 10px;
+}
+
+#play {
+  color: rgb(2550, 255, 255);
+  font-family: monospace;
+  font-size: 50px;
+  margin-left: 10px;
+}
